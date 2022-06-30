@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Free-Trial/static/css/main.68717a3b.css",
-    "main.js": "/Free-Trial/static/js/main.b8ab5a4c.js",
+    "main.js": "/Free-Trial/static/js/main.7f95c7f9.js",
     "static/js/787.51f9ae14.chunk.js": "/Free-Trial/static/js/787.51f9ae14.chunk.js",
     "static/media/product_image.svg": "/Free-Trial/static/media/product_image.edb92859c900900a0562807d34a5b9ec.svg",
     "static/media/product_large_image.svg": "/Free-Trial/static/media/product_large_image.283e5cdb53d323be464ab55e44919b83.svg",
@@ -88,11 +88,11 @@
     "static/media/X_alert.svg": "/Free-Trial/static/media/X_alert.50f908337b19bbe1d42001c8b8fbf0a2.svg",
     "static/media/accordion_arrow.svg": "/Free-Trial/static/media/accordion_arrow.bc8463d8c23e22f9f589.svg",
     "main.68717a3b.css.map": "/Free-Trial/static/css/main.68717a3b.css.map",
-    "main.b8ab5a4c.js.map": "/Free-Trial/static/js/main.b8ab5a4c.js.map",
+    "main.7f95c7f9.js.map": "/Free-Trial/static/js/main.7f95c7f9.js.map",
     "787.51f9ae14.chunk.js.map": "/Free-Trial/static/js/787.51f9ae14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68717a3b.css",
-    "static/js/main.b8ab5a4c.js"
+    "static/js/main.7f95c7f9.js"
   ]
 }
